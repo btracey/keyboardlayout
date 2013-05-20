@@ -8,16 +8,24 @@ The rest of the design goal was to be very similar to dvorak, so the main part o
 is as follows:
 
 Normal:
+
 $&{[(+!=)]}*#    // Going from querty ` to =
+
 ',.pyfgcrl/@\    // Going from querty q to \
+
 aoeuidhtns-
+
 ;qjkxbmwvz
 
 
 On shift:
+
 ~1234567890%`
+
 "<>PYFGCRL?^|
+
 AOEUIDHTNS_
+
 :QJKXBMWVZ
 
 As you can see, it's mostly the same as dvorak, but the punctuation is all different. What I really like about this 
