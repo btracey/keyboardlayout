@@ -32,4 +32,4 @@ As you can see, it's mostly the same as dvorak, but the punctuation is all diffe
 set up is the symmetry. (), [], {} are all equally far away from the middle (querty 6). += also have a nice symmetry,
 as do pointer reference and dereference &*. It also makes @ and / more easily accessible.
 
-The repository currently only provides a .keyboardlayout used in OSX.
+The repository currently only provides a .keylayout used in OSX.
